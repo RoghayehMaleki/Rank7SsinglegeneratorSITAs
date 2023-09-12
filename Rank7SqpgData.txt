@@ -12,9 +12,6 @@ k=12
 
 
 
-   The focus of our proposed project titled Association Schemes and Related Algebras (ASRA) lies in the field of Algebraic Combinatorics, specifically addressing a longstanding and difficult problem known as the Cyclotomic Eigenvalue Question (CEQ). The question asks whether all entries of the character table of a commutative association scheme are cyclotomic. In other words, is there any association scheme with character table 𝑃 for which not all entries lie in a cyclotomic number field?
-This mysterious question was initially posed by Simon P. Norton during an Oberwolfach conference in the year 1980. Remarkably, despite the advancements in the relatively recent theory of association schemes, the CEQ remains one of the oldest unsolved problems in this area. Since the CEQ is one of the most challenging problems in Algebraic Combinatorics, relatively limited prior research has been done and consequently the problem is still wide open for exploration.
-This project aims to obtain a deep understanding of certain properties of association schemes and their associated algebras; the Bose-Mesner algebra and Table algebras through a representation-theoretic approach in order to provide a comprehensive answer to the CEQ.
 
 
 
